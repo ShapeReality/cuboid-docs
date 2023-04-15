@@ -1,0 +1,6 @@
+site_name: ShapeReality Manual
+theme: 
+  name: readthedocs
+  logo: img/shapereality_logo_dark.png
+markdown_extensions:
+  - admonition
