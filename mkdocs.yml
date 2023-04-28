@@ -4,3 +4,9 @@ theme:
   logo: img/shapereality_logo_dark.png
 markdown_extensions:
   - admonition
+  - footnotes
+extra_css: [extra.css]
+# nav:
+#   - Home: 'index.md'
+#   - Getting Started:
+#     - 

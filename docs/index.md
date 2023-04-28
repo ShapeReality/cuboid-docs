@@ -9,15 +9,17 @@ The app features an intuitive user interface and robust interaction model for mo
 !!!note
     The application is still in active development and features are subject to change. 
 
-## How to use
+## Demo
 
-Select your dominant hand in the Settings panel. By default this is set to `right handed`.
+<div class="video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MRjBSg0BKHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-Your dominant hand controller has a **ray**, and a **cursor** at the end of that ray. With it, you can **point**, **click** and **drag** UI elements or objects in the scene.
-
-### Clicking and dragging
-Clicking works by pressing either the trigger, or the two buttons located on the top of the controller (either A/B or X/Y, depending on whether you're left or right handed). 
-
-Dragging works by clicking, and moving your cursor from the original click position. 
-
-### 
+## Key features
+- ShapeReality is a local, standalone application for Meta Quest 2 and Meta Quest Pro. It does not require an internet connection or creating an account. 
+- Import *any* Unity Prefab or 3D model into the application via our Unity plugin (custom MonoBehaviour scripts excluded)
+- **Translate, rotate and scale** objects using gizmos and intuitive scale bounds handles, from a distance!
+- Select, cut, copy, paste, duplicate and delete objects via a context menu. 
+- Full **undo / redo** support
+- **Save and load** scenes to and from a local .json file, name files. 
+- **Draw primitive shapes** and change corner radius or their color via a full **RGB / HSV color picker**
