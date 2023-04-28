@@ -12,7 +12,7 @@ Augmented reality, virtual reality, games and computer generated imagery and vis
 
 We believe that for this reason, augmented reality could be an invaluable tool in the tool belt of architects, designers and artists. 
 
-> Imagine walking to that one overcrowded six lanes-wide street in your city. The one with exhaust fumes trapped between the buildings, that was once the main road that everyone walked on before the ☆automobile☆ took over. Imagine standing there, and showing municipalities, friends and residents of that neighbourhoods the difference it would make if it was a walkable, lush green street. With a flick of a switch you see and *experience* what that would be like. 
+> Imagine walking to that one overcrowded six lanes-wide street in your city. The one with exhaust fumes trapped between the buildings, that was once the main road that everyone walked on before the ☆automobile☆ took over. Imagine standing there, and showing municipalities, friends and residents of that neighbourhoods the difference it would make if it was a walkable, lush green street. With a flick of a switch you show and let them *experience* what that would be like. 
 
 We get used to our surroundings, but augmented reality gives us the ability to challenge it. To change our cities for the better.[^1]
 
@@ -22,7 +22,7 @@ In addition to this motivation, we aim to set a new standard for what a good use
 
 Many software applications for AR and VR have confusing interfaces, while not providing any speed benefits after learning "their way of doing things". Many interfaces are bare-bones because of a lack of a good UI framework, with additional features only further complicating the interface by adding yet another button mapping to an already overcrowded controller. 
 
-We try to stay close to how traditional software applications work, with **pointing**, **clicking** and **dragging** to select and move objects, the concept of **tools** to move, rotate, scale objects and draw shapes, and **panels** that contain settings, documents, assets or colors. 
+We try to stay close to how traditional desktop software applications work, with **pointing**, **clicking** and **dragging** to select and move objects, the concept of **tools** to move, rotate, scale objects and draw shapes, and **panels** that contain settings, documents, assets or colors. 
 
 For anyone familiar with desktop software applications such as Adobe Illustrator, Unity or Blender, there should only be a small learning curve. See the section on the [User Interface](../sections/user-interface.md) for a quick rundown on how the interface works. 
 
