@@ -1,4 +1,4 @@
-# Installing ShapeReality
+# Installing Cuboid
 
 ## Standalone app for Meta Quest 2 and Meta Quest Pro
 

@@ -1,12 +1,21 @@
-site_name: ShapeReality Manual
+site_name: Cuboid Manual
 theme: 
   name: readthedocs
-  logo: img/shapereality_logo_dark.png
+  logo: img/cuboid_dark.png
 markdown_extensions:
   - admonition
   - footnotes
 extra_css: [extra.css]
-# nav:
-#   - Home: 'index.md'
-#   - Getting Started:
-#     - 
+nav:
+  - Home: '../'
+  - About:
+    - About Cuboid: "about/index.md"
+    - License: "about/license.md"
+    - Acknowledgements: "about/acknowledgements.md"
+    - Support: "about/support.md"
+  - Getting Started:
+    - Getting Started: "getting-started/index.md"
+    - Installing: "getting-started/installing.md"
+  - Sections:
+    - Importing Assets: "sections/importing.md"
+    - User Interface: "sections/user-interface.md"

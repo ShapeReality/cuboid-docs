@@ -1,8 +1,8 @@
-![ShapeReality Logo](img/shapereality_logo_light.png)
+![Cuboid Logo](img/cuboid_light.png)
 
-# ShapeReality Manual
+# Cuboid Manual
 
-Welcome to the Manual for ShapeReality, an experimental design application for **Meta Quest 2** and **Meta Quest Pro**, allowing you to import 3D models and place them in AR, in real-world scale. 
+Welcome to the Manual for Cuboid, an experimental design application for **Meta Quest 2** and **Meta Quest Pro**, allowing you to import 3D models and place them in AR, in real-world scale. 
 
 The app features an intuitive user interface and robust interaction model for moving, rotating and scaling objects from a distance, at their real world scale. 
 
@@ -16,7 +16,7 @@ The app features an intuitive user interface and robust interaction model for mo
 </div>
 
 ## Key features
-- ShapeReality is a local, standalone application for Meta Quest 2 and Meta Quest Pro. It does not require an internet connection or creating an account. 
+- Cuboid is a local, standalone application for Meta Quest 2 and Meta Quest Pro. It does not require an internet connection or creating an account. 
 - Import *any* Unity Prefab or 3D model into the application via our Unity plugin (custom MonoBehaviour scripts excluded)
 - **Translate, rotate and scale** objects using gizmos and intuitive scale bounds handles, from a distance!
 - Select, cut, copy, paste, duplicate and delete objects via a context menu. 

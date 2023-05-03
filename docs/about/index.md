@@ -1,8 +1,8 @@
-# About ShapeReality
+# About Cuboid
 
-ShapeReality was created with the goal of being able to design in augmented reality, in real-world 1:1 scale using the newest AR and VR hardware such as the Meta Quest Pro. 
+Cuboid was created with the goal of being able to design in augmented reality, in real-world 1:1 scale using the newest AR and VR hardware such as the Meta Quest Pro. 
 
-The application has been created by Arjo Nagelhout and Daniel Chou Rainho at [Innovation Space](https://www.tue.nl/en/education/tue-innovation-space) at the [Eindhoven University of Technology](https://www.tue.nl/en/) in Eindhoven, The Netherlands, and is currently in active development. The project was started in September 2022. 
+The application has been created by [Arjo Nagelhout](https://www.linkedin.com/in/arjonagelhout/) and [Daniel Chou Rainho](https://www.linkedin.com/in/daniel-chou-rainho/), as part of **ShapeReality**, a student team based in [Innovation Space](https://www.tue.nl/en/education/tue-innovation-space) at the [Eindhoven University of Technology](https://www.tue.nl/en/) in Eindhoven, The Netherlands, and is currently in active development. The project was started in September 2022. 
 
 But, why create an augmented reality design application?
 
@@ -28,10 +28,12 @@ For anyone familiar with desktop software applications such as Adobe Illustrator
 
 ### Integration with existing software
 
-Directly creating 3D assets in augmented or virtual reality would be too time consuming, since software for AR and VR headsets lacks the speed of keyboard shortcuts and the precision of the mouse to interact with a complex 3D modeling or CAD software user interface. 
+Directly creating 3D assets in augmented or virtual reality would be too time consuming, since software for AR and VR headsets lacks the speed of keyboard shortcuts and the precision of the mouse to interact with a necessarily complex 3D modeling or CAD software user interface. 
 
 So, in order for AR to reach its full potential it should integrate well into the current ecosystem of 3D modeling software, CAD software and game engines. 
 
-For this reason, at launch our application ships with our Unity plugin, allowing you to import any 3D model that Unity supports. See [Importing Assets](../sections/importing.md) for a guide on how to do this. 
+For this reason, at launch our application ships with our Unity plugin, allowing you to import *any* 3D model that Unity supports. Our ambition is to support directly importing 3D models and other assets such as images and videos, but that will take more development time. 
+
+See [Importing Assets](../sections/importing.md) for a guide on how to do this. 
 
 [^1]: Please use the technology responsibly and don't just use it to greenwash new urban development projects. Augmented reality can be used to communicate a vision, but also to sell an illusion. Make sure the trees actually get planted :)
