@@ -1,5 +1,5 @@
-# shapereality-docs
-Documentation for ShapeReality
+# cuboid-docs
+Documentation for Cuboid, an experimental XR design application by ShapeReality
 
 The documentation is currently hosted on https://readthedocs.io
 
