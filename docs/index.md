@@ -23,3 +23,7 @@ The app features an intuitive user interface and robust interaction model for mo
 - Full **undo / redo** support
 - **Save and load** scenes to and from a local .json file, name files. 
 - **Draw primitive shapes** and change corner radius or their color via a full **RGB / HSV color picker**
+
+## A product by
+[![ShapeReality Logo](img/shapereality_logo_light.png)](https://shapereality.io)
+We're a student team at the Eindhoven University of Technology. Visit [shapereality.io](https://www.shapereality.io/) for more information. 
