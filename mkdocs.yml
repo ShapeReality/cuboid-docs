@@ -13,9 +13,11 @@ nav:
     - License: "about/license.md"
     - Acknowledgements: "about/acknowledgements.md"
     - Support: "about/support.md"
+    - Changelog: "about/changelog.md"
   - Getting Started:
     - Getting Started: "getting-started/index.md"
     - Installing: "getting-started/installing.md"
   - Sections:
     - Importing Assets: "sections/importing.md"
     - User Interface: "sections/user-interface.md"
+  
