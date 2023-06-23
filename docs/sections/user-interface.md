@@ -12,4 +12,10 @@ Clicking works by pressing either the trigger, or the two buttons located on the
 
 Dragging works by clicking, and moving your cursor from the original click position. 
 
-### 
+## Demo video
+
+In this demo video, an overview of the entire user interface and interaction model is explained. 
+
+<div class="video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MRjBSg0BKHA" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
